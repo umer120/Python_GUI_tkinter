@@ -21,7 +21,7 @@ Explained how input and output can be taken and displayed respectively using GUI
   **_Task 3:_** Display table of a number input from user (GUI based)
 
 
-**greatest_among_five.py**
+**greatest_among_five.py:**
 
 - Entered a list of integers separated by space using GUI by simpledialog
 
@@ -32,7 +32,11 @@ Explained how input and output can be taken and displayed respectively using GUI
 - displayed the maximum number using GUI by messagebox
 
 
+**_WEB_FORM.py:_**
 
+- I have made GUI based User Registration Form using tkinter library in which it asks user to input name, age, email, gender and country
+
+- After submitting the form using submit button, it invokes the submit_form function which checks whether all the fields are filled or not. If not, it displays the error otherwise it displays the entered details using messagebox
 
 
 
