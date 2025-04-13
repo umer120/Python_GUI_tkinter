@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8646b9b1-c3af-4931-8c1c-8b4c6a267218)# Python_GUI_tkinter
+# Python_GUI_tkinter
 Explained how input and output can be taken and displayed respectively using GUI
 
 **GUI_Practice.py:**
